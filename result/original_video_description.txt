@@ -1,0 +1,2 @@
+Original video was to big, therefore, it was unable to upload it.
+There were different types of noise such as spatial periodic noise, time periodic noise, salt-and-pepper noise. 
